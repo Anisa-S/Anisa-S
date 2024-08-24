@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anisa-
+- 👋 Hi, I’m @Anisa Sulimani
 - 👀 I’m interested in Full Stack Developer
 - 🌱 I am currently learning Front end development as a student
 - 📫 How to reach me anisasulimani028@gmail.com
